@@ -1,0 +1,4 @@
+psutil
+prompt_toolkit
+requests
+python-dotenv
